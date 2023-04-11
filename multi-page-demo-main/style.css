@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+}
+
+.nav a {
+  margin: 0px 25px;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  border: 2px solid black;
+  width: 500px;
+  margin: 50px auto;
+  padding: 25px 75px;
+  border-radius: 10px;
+  background-color: white;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.html {
+  background: url("img/drunkdrive-royalty-free-image-1572025419.jpg") no-repeat fixed center;
+  background-size: cover;
+}
